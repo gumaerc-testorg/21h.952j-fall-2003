@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eb7e91f9-1523-7e0d-8b9e-5739fc065286
 ---
@@ -37,7 +40,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Thinking About the 20th Century
+Thinking About the 20{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -144,7 +147,7 @@ Higham, John. _Strangers in the Land: Patterns of American Nativism, 1860-1925.
   
 Jacobson, Matthew Frye. _Whiteness of a Different Color: European Immigrants and the Alchemy of Race._ 1998.  
   
-Orsi, Robert. _The Madonna of 115th Street: Faith and Community in Italian Harlem._ 1985.  
+Orsi, Robert. _The Madonna of 115{{< sup "th" >}} Street: Faith and Community in Italian Harlem._ 1985.  
   
 Roy, Rosenzweig. _Eight Hours for What We Will: Workers and Leisure in an Industrial City, 1870-1920._ 1983.  
   

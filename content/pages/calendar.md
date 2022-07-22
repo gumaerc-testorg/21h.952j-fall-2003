@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b3bea03b-83c5-2710-a9aa-cc4bd6710975
 ---
@@ -31,7 +33,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Thinking About the 20th Century
+Thinking About the 20{{< sup "th" >}} Century
 {{< tdclose >}}
 
 {{< trclose >}}
